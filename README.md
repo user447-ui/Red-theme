@@ -1,4 +1,6 @@
 # Blue Theme by taikun114
+**English** | [日本語](https://github.com/taikun114/Blue-Theme-by-taikun114/blob/main/docs/README-ja.md)
+
 ![Blue Theme](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Blue%20Theme.png)
 
 ## Screenshots
@@ -73,7 +75,7 @@ If it already exists, nothing needs to be done.
 ### Fonts setup
 To use the fonts specified in this theme, you need to add a resource from the Dashboard Settings.
 
-Go to Home Assistant Settings -> Dashboards -> Resources and add resources with the following settings:
+Go to Home Assistant `Settings` -> `Dashboards` -> `Resources` and add resources with the following settings:
 
 #### URL:
 ```
@@ -86,7 +88,7 @@ Select `Stylesheet`
 ### HACS
 
 1. Go to the Community Store.
-2. Click on the icon in the upper right corner and open “Custom repositories”.
+2. Click on the icon in the upper right corner and open `Custom repositories`.
 3. In the `Repository` section, add this: `https://github.com/taikun114/Blue-Theme-by-taikun114`
 4. In the `Type` section, select `Theme` then click `ADD`
 5. Click `Blue Theme by taikun114` and click `Download`
