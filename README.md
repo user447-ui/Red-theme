@@ -100,3 +100,11 @@ Select `Stylesheet`
 4. Open the Home Assistant Developer tools and click on `ALL YAML CONFIGURATION` under `YAML CONFIGURATION RELOADING`
 5. Go to Profile Settings, change to the downloaded theme, and you're done!
 
+## Important
+This theme changes the spacing of [Mushroom](https://github.com/piitaya/lovelace-mushroom) Title Card.
+Please note that this may result in a slightly broken layout if you are using Mushroom Title Card.
+
+If you do not want the layout to be broken, remove the code specified in `Spacing` in `Mushroom Card Specific` in the theme file.
+
+The theme file will be reset each time you update the theme.
+So please note that you will need to follow the same procedure each time you update the theme.
