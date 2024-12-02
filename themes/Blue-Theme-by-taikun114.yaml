@@ -1,0 +1,122 @@
+Blue Theme by taikun114:
+
+# v1.0
+
+# To use the fonts specified in this theme, 
+# you need to add a resource from the Dashboard Settings.
+# See Readme for more information. 
+
+### Design ---------------------------------------------------------------------
+    ha-card-box-shadow: none
+    ha-card-border-width: 0
+    ha-card-border-radius: 20px
+
+### Fonts ----------------------------------------------------------------------
+  # Font Families
+    primary-font-family: "'Inter','Noto Sans JP'"
+    paper-font-common-code_-_font-family: "Cousine"
+
+    paper-font-common-base_-_font-family: "var(--primary-font-family)"
+    paper-font-body1_-_font-family: "var(--primary-font-family)"
+    paper-font-body2_-_font-family: "var(--primary-font-family)"
+    paper-font-subhead_-_font-family: "var(--primary-font-family)"
+    paper-font-headline_-_font-family: "var(--primary-font-family)"
+    paper-font-caption_-_font-family: "var(--primary-font-family)"
+    paper-font-title_-_font-family: "var(--primary-font-family)"
+    ha-card-header-font-family: "var(--primary-font-family)"
+    mdc-typography-headline6-font-family: "var(--primary-font-family)"
+    header-title-font-family: "var(--primary-font-family)"
+    h1_-_font-family: "var(--primary-font-family)"
+    app-header-font-family: "var(--primary-font-family)"
+
+  # Font Weights
+    paper-font-body1_-_font-weight: "400"
+    paper-font-subhead_-_font-weight: "500"
+    paper-font-headline_-_font-weight: "700"
+    mdc-typography-headline6-font-weight: "700"
+    mdc-typography-subtitle1-font-weight: "700"
+    mcg-title-font-weight: "400"
+    ha-heading-card-title-font-weight: "700"
+
+### Colors ---------------------------------------------------------------------
+    state-switch-on-color: "var(--primary-color)"
+    state-icon-color: "var(--primary-color)"
+    state-active-color: "var(--primary-color)"
+    disabled-color: "var(--state-inactive-color)"
+
+    md-slider-inactive-track-color: "var(--input-fill-color)"
+    switch-unchecked-button-color: "var(--state-inactive-color)"
+    switch-unchecked-track-color: "var(--state-inactive-color)"
+
+    outline-color: "var(--divider-color)"
+    info-color: "var(--primary-color)"
+
+    sidebar-icon-color: "var(--secondary-text-color)"
+
+    app-header-text-color: "var(--primary-text-color)"
+    app-header-background-color: "var(--primary-background-color)"
+
+    paper-toast-background-color: "var(--card-background-color)"
+    paper-toast-color: "var(--primary-text-color)"
+
+### Mushroom Card Specific -----------------------------------------------------
+  # Font Weights
+    mush-title-font-weight: "700"
+    mush-subtitle-font-weight: "400"
+
+  # Spacing
+    mush-subtitle-line-height: "1.0"
+    mush-title-padding: 16px 8px 12px
+
+### Settings for Appearance Mode -----------------------------------------------
+    modes:
+        light: 
+         ## Colors -------------------------------------------------------------
+            primary-color: "#4F93FF"
+            accent-color: "#FF8BC9"
+
+          # Texts
+            primary-text-color: "#000000"
+            secondary-text-color: "#6A7C8D"
+            disabled-text-color: "#B1C4DB"
+            state-inactive-color: "#B1C4DB"
+            app-header-edit-text-color: "var(--primary-text-color)"
+
+          # Backgrounds
+            primary-background-color: "#E3F1FF"
+            secondary-background-color: "#C9E2FF"
+            card-background-color: "#F3FAFF"
+            sidebar-background-color: "#E3F1FF"
+            app-header-edit-background-color: "#C9E2FF"
+
+          # Others
+            input-fill-color: "#EBF0F6"
+            divider-color: "rgba(106, 124, 141, 0.2)"
+
+          # Mushroom Card Specific
+            mush-rgb-disabled: "177, 196, 219"
+
+        dark: 
+         ## Colors -------------------------------------------------------------
+            primary-color: "#3866FF"
+            accent-color: "#95297C"
+
+          # Texts
+            primary-text-color: "#D5D5D5"
+            secondary-text-color: "#96A1C7"
+            disabled-text-color: "#4B557F"
+            state-inactive-color: "#4B557F"
+
+          # Backgrounds
+            primary-background-color: "#101722"
+            secondary-background-color: "#292E3E"
+            card-background-color: "#1D2233"
+            sidebar-background-color: "#101722"
+            app-header-edit-background-color: "#1B2739"
+
+          # Others
+            input-fill-color: "#292E3E"
+            divider-color: "rgba(150, 161, 199, 0.2)"
+
+          # Mushroom Card Specific
+            mush-rgb-disabled: "75, 85, 127"
