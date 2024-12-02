@@ -1,62 +1,62 @@
 # Blue Theme by taikun114
-![Blue Theme](https://github.com/user-attachments/assets/a21e509e-f01e-4500-8431-28becc646378)
+![Blue Theme](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Blue%20Theme.png)
 
 ## Screenshots
 
 ### Dashboard
 #### Light
-![Dashboard Light](https://github.com/user-attachments/assets/0888d6db-3e51-4a54-82c4-3586b5d88920)
+![Dashboard Light](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Dashboard%20Light.png)
 
 #### Dark
-![Dashboard Dark](https://github.com/user-attachments/assets/8079c2e0-e30c-432b-8ebf-4ff2baba072f)
+![Dashboard Dark](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Dashboard%20Dark.png)
 
 ### Map
 
 #### Light
-![Map Light](https://github.com/user-attachments/assets/cac7e54b-a92d-4877-8146-e675fcf70930)
+![Map Light](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Map%20Light.png)
 
 #### Dark
-![Map Dark](https://github.com/user-attachments/assets/867245d3-037d-4e28-833a-4915900c28d8)
+![Map Dark](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Map%20Dark.png)
 
 ### Logbook
 
 #### Light
-![Logbook Light](https://github.com/user-attachments/assets/6b26bddb-4777-45d4-bfe0-355aa0c166aa)
+![Logbook Light](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Logbook%20Light.png)
 
 #### Dark
-![Logbook Dark](https://github.com/user-attachments/assets/21e3c591-f9cb-4df4-86f0-4e639c8bf16d)
+![Logbook Dark](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Logbook%20Dark.png)
 
 ### History
 
 #### Light
-![History Light](https://github.com/user-attachments/assets/c4ae2ab5-32dd-44b8-a374-486f082a558d)
+![History Light](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/History%20Light.png)
 
 #### Dark
-![History Dark](https://github.com/user-attachments/assets/f7aa09ea-c2a6-438d-be7d-bb1c982ccf53)
+![History Dark](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/History%20Dark.png)
 
 ### Developer tools
 
 #### Light
-![Developer Tools Light](https://github.com/user-attachments/assets/8e76e670-bc02-4ed4-86d5-f8310f4d81e9)
+![Developer Tools Light](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Developer%20Tools%20Light.png)
 
 #### Dark
-![Developer Tools Dark](https://github.com/user-attachments/assets/696e538f-e998-4942-9347-2182a5049510)
+![Developer Tools Dark](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Developer%20Tools%20Dark.png)
 
 ### Configuration
 
 #### Light
-![Configuration Light](https://github.com/user-attachments/assets/37d30d59-c836-4598-b471-619426e9f5c1)
+![Configuration Light](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Configuration%20Light.png)
 
 #### Dark
-![Configuration Dark](https://github.com/user-attachments/assets/047f0c34-3713-4522-8b78-60a3e37fd00a)
+![Configuration Dark](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Configuration%20Dark.png)
 
 ### Profile
 
 #### Light
-![Profile Light](https://github.com/user-attachments/assets/279c28ed-beeb-4439-8660-057b7a7ca2ce)
+![Profile Light](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Profile%20Light.png)
 
 #### Dark
-![Profile Dark](https://github.com/user-attachments/assets/63a3750b-6629-4c11-a0a0-ad9539a853f3)
+![Profile Dark](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Profile%20Dark.png)
 
 ## Installation
 
@@ -94,7 +94,7 @@ Select `Stylesheet`
 
 ### Manual
 
-1. Download this theme file: [Blue-Theme-by-taikun114.yaml](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/master/themes/Blue-Theme-by-taikun114.yaml)
+1. Download this theme file: [Blue-Theme-by-taikun114.yaml](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/themes/Blue-Theme-by-taikun114.yaml)
 2. Open the `themes` folder in the Home Assistant config folder and create a folder named `blue-theme-by-taikun114` in it.
 3. Put the `Blue-Theme-by-taikun114.yaml` that you just downloaded into the folder you created.
 4. Open the Home Assistant Developer tools and click on `ALL YAML CONFIGURATION` under `YAML CONFIGURATION RELOADING`
