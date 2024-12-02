@@ -95,7 +95,7 @@ Select `Stylesheet`
 ### Manual
 
 1. Download this theme file: [Blue-Theme-by-taikun114.yaml](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/themes/Blue-Theme-by-taikun114.yaml)
-2. Open the `themes` folder in the Home Assistant config folder and create a folder named `blue-theme-by-taikun114` in it.
+2. Open the `themes` folder in the Home Assistant config folder and create a folder named `Blue-Theme-by-taikun114` in it.
 3. Put the `Blue-Theme-by-taikun114.yaml` that you just downloaded into the folder you created.
 4. Open the Home Assistant Developer tools and click on `ALL YAML CONFIGURATION` under `YAML CONFIGURATION RELOADING`
 5. Go to Profile Settings, change to the downloaded theme, and you're done!
