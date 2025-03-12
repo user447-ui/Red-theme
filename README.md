@@ -1,6 +1,4 @@
 # Blue Theme by taikun114
-**English** | [日本語](https://github.com/taikun114/Blue-Theme-by-taikun114/blob/main/docs/README-ja.md)
-
 ![Blue Theme](https://raw.githubusercontent.com/taikun114/Blue-Theme-by-taikun114/main/docs/Blue%20Theme.png)
 
 ## Screenshots
